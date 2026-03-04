@@ -1,0 +1,16 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "UPM Seminar Homework",
+  "description": "Homework repository for the Open Science seminar at UPM",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Maryam",
+      "familyName": "Raadi"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0",
+  "codeRepository": "https://github.com/mrymraadi77-source/upm-seminar-homework"
+}
